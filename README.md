@@ -35,9 +35,9 @@ In this project i chosen FIFA 2019 dataset, which is taken from Kaggle, To solve
         
 # 3. File Descriptions
 
-    fifa_data: It contains FIFA 2019 complete players dataset of 18k+ Rows And ~90 attributes extracted from Kaggle.
+    fifa_data: It contains FIFA_19 complete players dataset of 18k+ Rows And ~90 attributes extracted from Kaggle.
     
-    Data Science Blog Post.ipynb : This jyputer note book contain all the solutions, which i have mentioned above.
+    Data Science Blog Post.ipynb: This jyputer note book contain all the solutions, which i have mentioned above.
     
 
 # 4. Results
