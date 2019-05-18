@@ -43,7 +43,7 @@ In this project i chosen FIFA 2019 dataset, which is taken from Kaggle, To solve
 # 4. Results
   
    All the REsults with the proper explanantion of the project and each problem will found in the link bellow.
-   [Click to get Results](https://www.quora.com)
+   [Click to get Results](https://medium.com/@vanamsrikanth/what-are-the-top-10-clubs-in-football-with-highest-total-player-market-value-f3d9102db581)
    
    
 
