@@ -42,8 +42,15 @@ In this project i chosen FIFA 2019 dataset, which is taken from Kaggle, To solve
 
 # 4. Results
   
-    [Lets go to Quora](https://www.quora.com)
-    
+   All the REsults with the proper explanantion of the project and each problem will found in the link bellow.
+   [Click to get Results](https://www.quora.com)
+   
+   
+
+# 5.  Licensing, Authors, and Acknowledgements    
+
+   The Data which is used in this project is taken from [Kaggle](https://www.kaggle.com/karangadiya/fifa19?almost-there=true&token=CfDJ8LdUzqlsSWBPr4Ce3rb9VL_ZGx-JpLeUnBahO3n7MsyLFTbb9dOoD1La0fALQ0XfgnwybiYOuHBDT7s4P-hudSxSNFN_JFpSWbxxyb37o0sVyd4Vt0nThurPJDKIz7cDFdunIJUsIOa8iUbXFOKVxjGuHoGgTfEe8leIKpY1AtaXsBWVycXacDjSi088qgzWB_gtX4n42EjEphpnsRrVQpprzYC7u19Z8J8nUu3jFmsjTYOKlfvBF1lZQYDapMhpA-Jil5Rlg5Jn9rotZ6UsW1nD4xs82LVlm6plVEqFZ9dJrXb2RoeeoW0BCWQV-nnCpCOW0Lrarq8iHn_QsiXT6pakm-ID1wJUAqS-8J5lNKmbyQNTbE9FTZTulilMgEDf0GvqoAg6Rw9K00KgNYKccFHo8GF0_T56yPbZVCRnegyuuAmTNybVE8IbRd32J2D1J632VhrgAge7ltLkd-LMlhn-xekQsMPmnMs57RQrhan0_y8iEgg6yDEFukm4emlZ6lg7IU3TS1BQBJDDurJqrOZ9Bh3icvXSP3dK0_BrYJE6CtwtUJg-GX2PUgPBcUdlMjq1EVO0ndjjNO-oneyuxJI#_=_) . 
+   Licensing information for this data are [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
   
