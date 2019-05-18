@@ -11,7 +11,8 @@ I chosen the FIFA 2019 complete players dataset of 18k+ Rows And ~90 attributes 
   
   # 1. Installation
   
-    There should be no necessary libraries to run the code here other then Anaconda distribution of Python. The code should run with no issues using Python versions 3.
+    There should be no necessary libraries to run the code here other then Anaconda distribution of Python. 
+    The code should run with no issues using Python versions 3.
     
 ## packages used in this project are:
 
@@ -28,5 +29,6 @@ In this project i chosen FIFA 2019 dataset, which is taken from Kaggle, To solve
     Q1. Age distribution among the players in this FIFA_19 dataset.
     Q2. What are the best clubs according to the given dataset based upon player's present market value.
     Q3. The country with most number of foodball players in FIFA_2019 dataset.
-    Q4. Correlation between Some of the attributes like Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage
+    Q4. Correlation between Some of the attributes like 
+        (Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage)
   
