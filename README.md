@@ -31,4 +31,19 @@ In this project i chosen FIFA 2019 dataset, which is taken from Kaggle, To solve
     Q3. The country with most number of foodball players in FIFA_2019 dataset.
     Q4. Correlation between Some of the attributes like 
         (Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage)
+        
+        
+# 3. File Descriptions
+
+    fifa_data: It contains FIFA 2019 complete players dataset of 18k+ Rows And ~90 attributes extracted from Kaggle.
+    
+    Data Science Blog Post.ipynb : This jyputer note book contain all the solutions, which i have mentioned above.
+    
+
+# 4. Results
+  
+    [Lets go to Quora](https://www.quora.com)
+    
+
+
   
